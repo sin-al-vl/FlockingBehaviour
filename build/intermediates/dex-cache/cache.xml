@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_716ae074e69fdca9307ea2288ed7aa1ebc728e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aad21c58451bd44372597536986c2e27f92bbbf5">
+        <dex dex="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_70c66c14b47f4fd98925115916ab4ffab2f050cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_220673ea25939f4c9ffbc9682ba96e8adaac2a1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_863fb31885dfd35ce741f25f6e1800860395036f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_b8c67cd24cf05170cc0643def2cf2e2badf2b31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProjects\FlockingBehaviour\app\libs\javaGeom-0.11.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bf0c96845064dbea139a3723cfb6ba02c6aa8e7a">
+        <dex dex="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\pre-dexed\debug\javaGeom-0.11.2_46e4838ca7357c93505af87648f623871a54edfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_3bf9a314fdfe5dd4e81fb78d39ac80f5acac90fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_382ab2550d05f55cebbc9c8b3ebed587c0601caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="30b6f0341377e0a12cc809f6bf571240a84863ac">
+        <dex dex="D:\Android\AndroidProjects\FlockingBehaviour\app\build\intermediates\pre-dexed\debug\instant-run_376fc0a8362847088f992cb03453c13be8f6687e.jar" />
+    </item>
+
+</items>
